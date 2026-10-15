@@ -20,3 +20,6 @@ Settings → Automatic sync with `username/my-app-data` and your token; STAR Pre
 
 ## v1.0.0 (15 Oct 2026)
 First version: 16 competencies, 37 built-in questions in English and German.
+
+## v1.0.1 (15 Oct 2026)
+The header and bottom bar stay fixed while scrolling on iPhone; only the content area scrolls.
