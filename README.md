@@ -23,3 +23,6 @@ First version: 16 competencies, 37 built-in questions in English and German.
 
 ## v1.0.1 (15 Oct 2026)
 The header and bottom bar stay fixed while scrolling on iPhone; only the content area scrolls.
+
+## v1.0.3 (16 Oct 2026)
+New app icon in the shared high-tech style (Spotlight). To see it on the home screen, remove the app and add it to the Home Screen again (back up or turn on sync first: removing the app deletes its data on that phone).
